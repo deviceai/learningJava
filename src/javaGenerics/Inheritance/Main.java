@@ -1,7 +1,5 @@
 package javaGenerics.Inheritance;
 
-import com.sun.tools.javah.Gen;
-
 public class Main {
     public static void main(String[] args) {
         Parent parent = new Parent();

@@ -1,4 +1,4 @@
-package webAndHTTP.temp;
+package webAndHTTP.http;
 
 import java.io.InputStream;
 import java.net.*;
