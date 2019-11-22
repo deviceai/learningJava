@@ -4,7 +4,7 @@ public class javaInheritance2 {
     public static void main(String[] args) {
 
         C c = new C(2);
-        c.printField();
+        c.printField(); //prints 6
 
 
     }
