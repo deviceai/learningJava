@@ -10,12 +10,11 @@ public class Main implements testInterface, testInterface2{
         mainClassInstance.printConst();
 
         Human[] human = new Human[10];
-        byte[] bytes = {1,2,3,4,5};
-        System.out.println(bytes.length);
-        System.out.println(bytes[2:4]);
+        //byte[] bytes = {1,2,3,4,5};
+        //System.out.println(bytes.length);
+       //System.out.println(bytes[2:4]);
 
         List<Byte> newBytes = new ArrayList<>();
-        newBytes.
 
     }
 
